@@ -93,7 +93,7 @@ pip install huggingface_hub==0.25.2
    ```
 3. Download the GFPGAN model weights:
    ```powershell
-   Invoke-WebRequest -Uri "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth" -OutFile "experiments/pretrained_models/GFPGANv1.4.pth"
+   Invoke-WebRequest -Uri "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth" -OutFile "GFPGANv1.4.pth"
    ```
 
 ---
